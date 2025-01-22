@@ -1,0 +1,6 @@
+{
+  "printWidth": 65,
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "semi": true
+}
